@@ -7,7 +7,7 @@
     <title>Кардио</title>
   <?php 
   session_start();
-  include("date.php");
+  include("data.php");
   ?>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
